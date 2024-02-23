@@ -26,17 +26,15 @@ h2 {
 .book img{
 	padding-left: 40%;
 }
-.book-info h3 {
+.book-info h2 {
   margin: 0;
   padding: 0;
   text-align: left;
 }
-.author {
-	color: #777777;
-}
 .book-info p {
   margin: 0;
   padding: 0;
+  color: #777777;
 }
 .price-block {
   background-color: #2ecc71;
@@ -45,5 +43,4 @@ h2 {
   padding: 5px 10px;
   border-radius: 3px;
   text-align: center;
-  
 }
