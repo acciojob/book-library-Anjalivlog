@@ -24,7 +24,8 @@ h1 {
   padding: 20px;
 }
 .book img{
-	padding-left: 40%;
+	display: flex;
+	margin: auto
 }
 .book-info h2 {
   margin: 0;
